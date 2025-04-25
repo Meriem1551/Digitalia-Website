@@ -3,36 +3,36 @@
         "id": 1,
         "name": "Développement de solutions web et mobiles",
         "description": "Des applications rapides, intuitives et pensées pour l’utilisateur, sur tous les supports: web et mobile.",
-        "icon": "web-development-icon.png"
+        "icon": "device.svg"
     },
     {
         "id": 2,
         "name": "Intégration de systèmes d’information",
         "description": "Nous intégrons vos systèmes pour optimiser l'échange de données, avec des solutions accessibles sur web et mobile.",
-        "icon": "mobile-app-icon.png"
+        "icon": "settings.svg"
     },
     {
         "id": 3,
         "name": "Déploiement de solutions d’automatisation et d’IA",
         "description": "Des solutions pour automatiser vos processus métiers, améliorer l’efficacité et stimuler l’innovation grâce a l’IA.",
-        "icon": "ui-ux-icon.png"
+        "icon": "Robot2.svg"
     },
     {
         "id": 4,
         "name": "Analyse de données et visualisation via des outils de Business Intelligence",
         "description": "Analyse et visualisation de données pour des décisions éclairées grâce à la Business Intelligence.",
-        "icon": "digital-marketing-icon.png"
+        "icon": "database.svg"
     },
     {
         "id": 5,
         "name": "Iot et infrastructure réseau",
         "description": "Solutions IoT et infrastructures réseau pour connecter, gérer et sécuriser vos équipements intelligents.",
-        "icon": "ecommerce-icon.png"
+        "icon": "network.svg"
     },
     {
         "id": 6,
         "name": "Mise en place d’architectures techniques et cloud",
         "description": "Conception d’architectures techniques et cloud fiables, évolutives et adaptées à vos besoins métiers.",
-        "icon": "cybersecurity-icon.png"
+        "icon": "Cloud.svg"
     }
 ]

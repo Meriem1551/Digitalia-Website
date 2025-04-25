@@ -1,0 +1,43 @@
+
+ .title-font {
+    font-family: var(--title-font);
+  }
+  
+  .text-font {
+    font-family: var(--text-font);
+  }
+ .nav-link {
+    color: var(--dark-purple);      
+    text-decoration: none;
+    font-family: var(--title-font);
+    padding: 1rem;
+  }
+  .nav-link:hover {
+    color: var(--lavender-blue);         /* couleur au survol */
+  }
+  .slogan{
+    color: var(--dark-purple);      
+    font-family: var(--title-font);
+
+    font-size: 2.5rem;
+
+    padding: 1.5rem;
+  
+  }
+  .descreption{
+    color: black;    
+    font-size: 1rem;  
+    padding: 2rem;
+    font-family: var(--text-font);
+  }
+  .title{
+    color: var(--dark-purple);      
+    font-family: var(--text-font);
+    font-weight: bold;
+    font-size: 1.5rem; 
+  }
+  .sub-title{
+    color: black;    
+    font-size: 0.8rem;  
+    font-family: var(--text-font);
+  }
