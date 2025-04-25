@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono&display=swap');
+@import "tailwindcss";
+/*CSS for the whole project*/
+:root {
+  /*Colors*/
+  --dark-purple: #311356;
+  --light-purple: #ECEAFF;
+  --white: #FFFFFF;
+  --black: #000000;
+  --violet-Purple: #5F2F9A;
+  --text-color: #969697;
+  --lavender-blue: #6D69E6;
+  --project-background: #F7F7FA;
+  --footer-background: #EFEFF1;
+
+  /* Fonts */
+  --title-font:'Viga';
+  --text-font:'Spline Sans Mono';
+}
+
+
