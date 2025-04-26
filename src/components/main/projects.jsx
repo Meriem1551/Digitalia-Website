@@ -31,7 +31,7 @@ useEffect(() => {
   }, []);
 
   return (
-    <div className="bg-gray-100 py-8">
+    <div className="bg-gray-100 py-8" id="Projects">
     <h2 className="text-4xl  mb-4 text-center" style={{ fontFamily: 'var(--title-font)', color: 'var(--dark-purple)' }}>Nos projets</h2>
     <div className="relative flex flex-col items-center min-h-screen">
       {/* Static Grey Line */}

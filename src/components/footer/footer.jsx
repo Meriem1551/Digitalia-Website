@@ -4,7 +4,7 @@ import facebook from '../../assets/icons/facebook.svg';
 import twitter from '../../assets/icons/twitter.svg';
 const Footer = () => {
     return (
-    <footer className="bg-gray-100 flex flex-col md:flex-row md:justify-between md:items-center gap-20 px-10 md:px-32 py-10 items-center">
+    <footer id="Contact"className="bg-gray-100 flex flex-col md:flex-row md:justify-between md:items-center gap-20 px-10 md:px-32 py-10 items-center">
         <div className="bg-white rounded-lg p-10 w-full md:w-2/3 grid items-center">
             <h3 style={{fontFamily:'var(--title-font)', color:'var(--dark-purple)'}} className="text-2xl text-center mb-6">Contactez Nous</h3>
             <label style={{fontFamily:'var(--title-font)', color:'var(--dark-purple)'}}>First Name<span className="text-red-500">*</span></label>

@@ -32,9 +32,9 @@ const Header = () => {
                     <a href="#Accueil" className="nav-link">Accueil</a>
                     <a href="#Apropos" className="nav-link">À propos</a>
                     <a href="#Services" className="nav-link">Services</a>
-                    <a href="#" className="nav-link">Projets</a>
-                    <a href="#" className="nav-link">Avis client</a>
-                    <a href="#" className="nav-link">Contact</a>
+                    <a href="#Projects" className="nav-link">Projets</a>
+                    <a href="#AvisClients" className="nav-link">Avis client</a>
+                    <a href="#Contact" className="nav-link">Contact</a>
                 </nav>
 
                 {/* Navigation Mobile (Menu Burger) */}
