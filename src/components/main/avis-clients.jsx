@@ -7,13 +7,13 @@ const AvisClients = () => {
             setAvis(avis_client);
         }, []);
     return (
-        <div className="avis-clients">
-            <h2>Avis clients</h2>
-            <ul>
+        <div className="p-20" id="avis-clients">
+            <h2 className="text-4xl mb-16 text-center" style={{fontFamily:'var(--title-font)', color:'var(--dark-purple)'}}>Avis clients</h2>
+            <ul className='gap-10 flex flex-col items-center justify-center'>
                 {avis.map((client) => (
-                    <li key={client.id} className="avis-item">
-                        <p>{client.feedback}</p>
-                        <h3>{client.name}</h3>
+                    <li key={client.id} className='flex flex-col justify-center gap-3 bg-white p-4 rounded-lg shadow-lg border-l-5 border-purple-900'>
+                        <p style={{fontFamily:'var(--text-font)', color:'var(--black)'}} className='text-base'>{client.feedback}</p>
+                        <h3 className='text-end text-base' style={{fontFamily:'var(--title-font)', color:'var(--text-color)'}}>{client.name}</h3>
                     </li>
                 ))}
             </ul>
