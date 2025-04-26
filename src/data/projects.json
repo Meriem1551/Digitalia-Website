@@ -1,0 +1,27 @@
+[
+    {
+      "year": "2020",
+      "title": "ESSTConnect",
+      "description": "Digitalia a conçu ESSTConnect, un système intégré de gestion académique et administrative pour l'ESST, première université privée en sciences et technologies en Algérie. Cette solution permet de gérer efficacement les inscriptions en ligne, le suivi pédagogique des étudiants, la gestion des paiements et la planification des emplois du temps."
+    },
+    {
+      "year": "2021",
+      "title": "SemiConTrack",
+      "description": "Dans le cadre de ce projet, Digitalia a conçu SemiConTrack, une solution numérique sur mesure pour le CRTSE. Cette plateforme intègre des technologies d'analyse de données pour moderniser la gestion des projets de recherche scientifique  les formations de CRTSE via une application web."
+    },
+    {
+      "year": "2022",
+      "title": "IbisHotelSuite",
+      "description": "Digitalia a développé IbisHotelSuite, une solution sur mesure pour Ibis Algérie, incluant une application mobile client et une plateforme centralisée pour la gestion des réservations, chambres, facturation et incidents."
+    },
+    {
+      "year": "2023",
+      "title": "Wasla",
+      "description": "Digitalia a développé Wasla, une solution numérique sur mesure pour l'Entreprise de Transport Urbain et Suburbain d'Alger (ETUSA) via une plateforme pour la gestion administrative de la flotte de transport public et via une application mobile associée permettant aux usagers de suivre les trajets en direct, d’améliorer leur expérience de transport et d'assurer une gestion optimale des ressources."
+    },
+    {
+        "year": "2024",
+        "title": "BNA DigitalBank",
+        "description": "Dans le cadre de ce projet, Digitalia a conçu BNA DigitalBank, une solution numérique sur mesure pour la Banque Nationale d'Algérie (BNA). La plateforme modernise l'experience client en facilitant l'accès aux services bancaires a travers une application mobile sécuriséé et intuitive."
+    }
+  ]
